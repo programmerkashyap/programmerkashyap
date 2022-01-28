@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Himanshu Kashyap (@programmerkashyap)
 - 👀 I work on App Development, Website Development and also work as Live Project Trainer
 - 🌱 I’m currently learning New Frameworks of JavaScript
-- 💞️ I’m looking to collaborate on Developing some interested Apps or websites.
+- 💞️ I’m looking to collaborate on Developing some interesting Apps and websites.
 - 📫 You can reach me at programmerkashyap@hotmail.com
 
 <!---
